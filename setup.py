@@ -12,7 +12,7 @@ setup(
     description=stringx.__description__,
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=stringsan.__repository__,
+    url=stringx.__repository__,
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
