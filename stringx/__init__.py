@@ -1,0 +1,5 @@
+__version__ = "1.0"
+__author__ = "Ausweghen"
+__description__ = "String manipulation package that makes your life easier"
+__repository__ = "https://github.com/Ausweghen/stringx"
+__email__ = "ausweghen.dev@outlook.com"
